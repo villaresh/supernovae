@@ -6,8 +6,4 @@ authors:
     given-names: Helena
     family-names: Villares Santiago
 repository-code: 'https://github.com/villaresh/supernovae'
-abstract: >-
-  This study aims to quantify the dark energy in the Universe from Hubble Space Telescope raw redshift data. Measuring the 
-  effective magnitude for several type Ia Supernovae we demonstrated that there is some energy, whose essential nature remains 
-  unknown, that composes about 75% of the cosmos.
 date-released: '2023-02-14'

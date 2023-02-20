@@ -1,5 +1,5 @@
 # z   meff
-# Table 1 of https://arxiv.org/pdf/astro-ph/9812133.pdf
+# Extracted from S. Perlmutter et al. (1998). Measurements of Omega and Lambda from 42 High- Redshift Supernovae. The Astrophysical Journal, 517(2), 565–586.
 #
 # 
 0.458	23.11

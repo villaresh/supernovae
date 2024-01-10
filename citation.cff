@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "Analysing Type Ia Supernovae Redshift Measurements for Dark Energy Quantification."
-authors:
-  - email: helenavillaressantiago@gmail.com
-    given-names: Helena
-    family-names: Villares Santiago
-repository-code: 'https://github.com/villaresh/supernovae'
-date-released: '2023-02-14'
